@@ -1,0 +1,10 @@
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-02-drawing-with-mouse\bin\Debug\DrawWithMouse.exe.config
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-02-drawing-with-mouse\bin\Debug\DrawWithMouse.exe
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-02-drawing-with-mouse\bin\Debug\DrawWithMouse.pdb
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-02-drawing-with-mouse\obj\Debug\DrawWithMouse.csprojAssemblyReference.cache
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-02-drawing-with-mouse\obj\Debug\DrawWithMouse.Form1.resources
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-02-drawing-with-mouse\obj\Debug\DrawWithMouse.Properties.Resources.resources
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-02-drawing-with-mouse\obj\Debug\DrawWithMouse.csproj.GenerateResource.cache
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-02-drawing-with-mouse\obj\Debug\DrawWithMouse.csproj.CoreCompileInputs.cache
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-02-drawing-with-mouse\obj\Debug\DrawWithMouse.exe
+C:\Users\cardw\Documents\GitHub\Csharp-Data-Visualization\examples\2019-06-02-drawing-with-mouse\obj\Debug\DrawWithMouse.pdb
